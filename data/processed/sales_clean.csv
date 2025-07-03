@@ -1,0 +1,148 @@
+ContractID,CustomerName,CustomerEmail,ContractDate,kWh,RatePerkWh,TotalAmount
+C1000,SolarWave Enterprises,solarwaveenterprises@example.com,2023-01-13,101938,0.15,15290.7
+C1001,Desert Solar Inc.,desertsolarinc@example.com,2023-01-16,110958,0.146,16199.87
+C1002,Desert Solar Inc.,desertsolarinc@example.com,2023-01-29,268862,0.149,40060.44
+C1003,GreenValley Farms,greenvalleyfarms@example.com,2023-02-11,50851,0.149,7576.8
+C1004,EcoPower Corp,ecopowercorp@example.com,2023-02-11,296088,0.145,42932.76
+C1005,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-02-10,99659,0.146,14550.21
+C1006,Mountain Peak Solar,mountainpeaksolar@example.com,2023-02-25,207099,0.149,30857.75
+C1007,GreenValley Farms,greenvalleyfarms@example.com,2023-03-21,222988,0.141,31441.31
+C1008,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-03-25,244393,0.147,35925.77
+C1009,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-03-08,219695,0.148,32514.86
+C1010,Mountain Peak Solar,mountainpeaksolar@example.com,2023-04-12,181935,0.14,25470.9
+C1011,Mountain Peak Solar,mountainpeaksolar@example.com,2023-04-16,129214,0.146,18865.24
+C1012,BrightFuture Renewables,brightfuturerenewables@example.com,2023-04-20,91086,0.146,13298.56
+C1013,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-04-03,158909,0.151,23995.26
+C1014,SolarWave Enterprises,solarwaveenterprises@example.com,2023-04-13,95987,0.145,13918.11
+C1015,BrightFuture Renewables,brightfuturerenewables@example.com,2023-05-27,288330,0.144,41519.52
+C1016,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-05-16,148745,0.144,21419.28
+C1017,EcoPower Corp,ecopowercorp@example.com,2023-05-23,265069,0.143,37904.87
+C1018,EcoPower Corp,ecopowercorp@example.com,2023-05-13,60623,0.141,8547.84
+C1019,Mountain Peak Solar,mountainpeaksolar@example.com,2023-05-18,184673,0.148,27331.6
+C1020,Desert Solar Inc.,desertsolarinc@example.com,2023-05-01,124149,0.143,17753.31
+C1021,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-05-01,230887,0.141,32555.07
+C1022,GreenValley Farms,greenvalleyfarms@example.com,2023-06-10,206591,0.144,29749.1
+C1023,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-06-30,271506,0.141,38282.35
+C1024,GreenValley Farms,greenvalleyfarms@example.com,2023-06-30,85943,0.143,12289.85
+C1025,Desert Solar Inc.,desertsolarinc@example.com,2023-06-22,98013,0.144,14113.87
+C1026,BrightFuture Renewables,brightfuturerenewables@example.com,2023-06-29,252273,0.136,34309.13
+C1027,Urban Solar Solutions,urbansolarsolutions@example.com,2023-06-25,239649,0.134,32112.97
+C1028,SolarWave Enterprises,solarwaveenterprises@example.com,2023-07-12,63108,0.137,8645.8
+C1029,Urban Solar Solutions,urbansolarsolutions@example.com,2023-07-20,99500,0.138,13731.0
+C1030,Mountain Peak Solar,mountainpeaksolar@example.com,2023-07-28,265767,0.146,38801.98
+C1031,SolarWave Enterprises,solarwaveenterprises@example.com,2023-07-18,124233,0.141,17516.85
+C1032,Urban Solar Solutions,urbansolarsolutions@example.com,2023-07-21,77794,0.141,10968.95
+C1033,GreenValley Farms,greenvalleyfarms@example.com,2023-07-02,93951,0.14,13153.14
+C1034,SolarWave Enterprises,solarwaveenterprises@example.com,2023-08-02,119087,0.135,16076.75
+C1035,BrightFuture Renewables,brightfuturerenewables@example.com,2023-08-06,201392,0.141,28396.27
+C1036,Desert Solar Inc.,desertsolarinc@example.com,2023-08-09,164307,0.146,23988.82
+C1037,SolarWave Enterprises,solarwaveenterprises@example.com,2023-08-30,77698,0.14,10877.72
+C1038,EcoPower Corp,ecopowercorp@example.com,2023-08-17,138156,0.141,19480.0
+C1039,SolarWave Enterprises,solarwaveenterprises@example.com,2023-08-09,275568,0.134,36926.11
+C1040,GreenValley Farms,greenvalleyfarms@example.com,2023-09-19,232091,0.138,32028.56
+C1041,EcoPower Corp,ecopowercorp@example.com,2023-09-04,172054,0.132,22711.13
+C1042,Desert Solar Inc.,desertsolarinc@example.com,2023-09-05,123243,0.139,17130.78
+C1043,Sunrise Energy LLC,sunriseenergyllc@example.com,2023-09-04,76108,0.135,10274.58
+C1044,SolarWave Enterprises,solarwaveenterprises@example.com,2023-09-13,203294,0.133,27038.1
+C1045,SolarWave Enterprises,solarwaveenterprises@example.com,2023-09-12,120671,0.134,16169.91
+C1046,SolarWave Enterprises,solarwaveenterprises@example.com,2023-10-12,215851,0.142,30650.84
+C1047,Desert Solar Inc.,desertsolarinc@example.com,2023-10-02,114879,0.139,15968.18
+C1048,BrightFuture Renewables,brightfuturerenewables@example.com,2023-10-12,81970,0.133,10902.01
+C1049,Desert Solar Inc.,desertsolarinc@example.com,2023-10-02,228395,0.129,29462.96
+C1050,BrightFuture Renewables,brightfuturerenewables@example.com,2023-10-12,226004,0.131,29606.52
+C1051,BrightFuture Renewables,brightfuturerenewables@example.com,2023-10-24,260668,0.139,36232.85
+C1052,GreenValley Farms,greenvalleyfarms@example.com,2023-11-05,149758,0.134,20067.57
+C1053,Mountain Peak Solar,mountainpeaksolar@example.com,2023-11-13,247817,0.133,32959.66
+C1054,EcoPower Corp,ecopowercorp@example.com,2023-11-28,246703,0.136,33551.61
+C1055,Desert Solar Inc.,desertsolarinc@example.com,2023-11-02,224165,0.129,28917.28
+C1056,EcoPower Corp,ecopowercorp@example.com,2023-11-02,178158,0.133,23695.01
+C1057,EcoPower Corp,ecopowercorp@example.com,2023-12-21,152402,0.133,20269.47
+C1058,GreenValley Farms,greenvalleyfarms@example.com,2023-12-22,220185,0.136,29945.16
+C1059,BrightFuture Renewables,brightfuturerenewables@example.com,2023-12-13,180525,0.129,23287.73
+C1060,GreenValley Farms,greenvalleyfarms@example.com,2023-12-27,225978,0.125,28247.25
+C1061,GreenValley Farms,greenvalleyfarms@example.com,2023-12-06,278355,0.127,35351.08
+C1062,Mountain Peak Solar,mountainpeaksolar@example.com,2024-01-11,166786,0.132,22015.75
+C1063,EcoPower Corp,ecopowercorp@example.com,2024-01-25,55681,0.128,7127.17
+C1064,SolarWave Enterprises,solarwaveenterprises@example.com,2024-01-09,289967,0.125,36245.88
+C1065,Urban Solar Solutions,urbansolarsolutions@example.com,2024-02-19,144989,0.129,18703.58
+C1066,Urban Solar Solutions,urbansolarsolutions@example.com,2024-02-10,280135,0.128,35857.28
+C1067,Urban Solar Solutions,urbansolarsolutions@example.com,2024-02-05,292406,0.126,36843.16
+C1068,Desert Solar Inc.,desertsolarinc@example.com,2024-02-24,242501,0.128,31040.13
+C1069,BrightFuture Renewables,brightfuturerenewables@example.com,2024-02-27,139609,0.127,17730.34
+C1070,EcoPower Corp,ecopowercorp@example.com,2024-03-24,62343,0.127,7917.56
+C1071,Desert Solar Inc.,desertsolarinc@example.com,2024-03-12,204861,0.129,26427.07
+C1072,GreenValley Farms,greenvalleyfarms@example.com,2024-03-31,78379,0.128,10032.51
+C1073,EcoPower Corp,ecopowercorp@example.com,2024-03-30,133065,0.124,16500.06
+C1074,SolarWave Enterprises,solarwaveenterprises@example.com,2024-03-25,160840,0.12,19300.8
+C1075,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-03-15,242343,0.131,31746.93
+C1076,Desert Solar Inc.,desertsolarinc@example.com,2024-03-20,288504,0.124,35774.5
+C1077,Desert Solar Inc.,desertsolarinc@example.com,2024-04-04,117688,0.122,14357.94
+C1078,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-04-08,76027,0.123,9351.32
+C1079,Desert Solar Inc.,desertsolarinc@example.com,2024-04-07,230103,0.128,29453.18
+C1080,Desert Solar Inc.,desertsolarinc@example.com,2024-04-25,271096,0.124,33615.9
+C1081,Mountain Peak Solar,mountainpeaksolar@example.com,2024-04-10,238653,0.124,29592.97
+C1082,Urban Solar Solutions,urbansolarsolutions@example.com,2024-04-19,50656,0.121,6129.38
+C1083,Urban Solar Solutions,urbansolarsolutions@example.com,2024-04-25,67947,0.125,8493.38
+C1084,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-05-03,78970,0.125,9871.25
+C1085,BrightFuture Renewables,brightfuturerenewables@example.com,2024-05-25,163927,0.131,21474.44
+C1086,EcoPower Corp,ecopowercorp@example.com,2024-05-26,219060,0.125,27382.5
+C1087,SolarWave Enterprises,solarwaveenterprises@example.com,2024-05-21,171803,0.118,20272.75
+C1088,EcoPower Corp,ecopowercorp@example.com,2024-05-11,161683,0.126,20372.06
+C1089,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-05-30,156828,0.123,19289.84
+C1090,SolarWave Enterprises,solarwaveenterprises@example.com,2024-05-15,295915,0.121,35805.71
+C1091,SolarWave Enterprises,solarwaveenterprises@example.com,2024-06-24,86882,0.122,10599.6
+C1092,Desert Solar Inc.,desertsolarinc@example.com,2024-06-03,127462,0.123,15677.83
+C1093,BrightFuture Renewables,brightfuturerenewables@example.com,2024-06-19,151683,0.118,17898.59
+C1094,Mountain Peak Solar,mountainpeaksolar@example.com,2024-07-26,214911,0.124,26648.96
+C1095,SolarWave Enterprises,solarwaveenterprises@example.com,2024-07-09,186848,0.116,21674.37
+C1096,SolarWave Enterprises,solarwaveenterprises@example.com,2024-07-21,98022,0.122,11958.68
+C1097,Urban Solar Solutions,urbansolarsolutions@example.com,2024-07-20,183945,0.119,21889.45
+C1098,SolarWave Enterprises,solarwaveenterprises@example.com,2024-07-15,146146,0.121,17683.67
+C1099,GreenValley Farms,greenvalleyfarms@example.com,2024-08-18,78551,0.112,8797.71
+C1100,EcoPower Corp,ecopowercorp@example.com,2024-08-18,110494,0.116,12817.3
+C1101,EcoPower Corp,ecopowercorp@example.com,2024-08-27,229882,0.111,25516.9
+C1102,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-08-29,148447,0.118,17516.75
+C1103,SolarWave Enterprises,solarwaveenterprises@example.com,2024-09-16,299958,0.123,36894.83
+C1104,EcoPower Corp,ecopowercorp@example.com,2024-09-27,61325,0.115,7052.38
+C1105,GreenValley Farms,greenvalleyfarms@example.com,2024-09-01,224366,0.114,25577.72
+C1106,Desert Solar Inc.,desertsolarinc@example.com,2024-09-21,174587,0.121,21125.03
+C1107,Mountain Peak Solar,mountainpeaksolar@example.com,2024-09-15,210588,0.118,24849.38
+C1108,GreenValley Farms,greenvalleyfarms@example.com,2024-09-19,113223,0.116,13133.87
+C1109,Desert Solar Inc.,desertsolarinc@example.com,2024-09-07,126836,0.114,14459.3
+C1110,GreenValley Farms,greenvalleyfarms@example.com,2024-10-09,297498,0.113,33617.27
+C1111,SolarWave Enterprises,solarwaveenterprises@example.com,2024-10-04,280266,0.113,31670.06
+C1112,Desert Solar Inc.,desertsolarinc@example.com,2024-10-28,174661,0.112,19562.03
+C1113,Desert Solar Inc.,desertsolarinc@example.com,2024-11-18,71003,0.115,8165.35
+C1114,GreenValley Farms,greenvalleyfarms@example.com,2024-11-14,246312,0.11,27094.32
+C1115,EcoPower Corp,ecopowercorp@example.com,2024-11-29,192612,0.112,21572.54
+C1116,EcoPower Corp,ecopowercorp@example.com,2024-11-14,85002,0.11,9350.22
+C1117,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-11-18,276331,0.117,32330.73
+C1118,EcoPower Corp,ecopowercorp@example.com,2024-11-15,238252,0.116,27637.23
+C1119,GreenValley Farms,greenvalleyfarms@example.com,2024-12-02,277766,0.108,29998.73
+C1120,Sunrise Energy LLC,sunriseenergyllc@example.com,2024-12-30,182313,0.111,20236.74
+C1121,Urban Solar Solutions,urbansolarsolutions@example.com,2024-12-16,239054,0.109,26056.89
+C1122,SolarWave Enterprises,solarwaveenterprises@example.com,2024-12-17,191405,0.113,21628.76
+C1123,BrightFuture Renewables,brightfuturerenewables@example.com,2024-12-26,252285,0.11,27751.35
+C1124,Sunrise Energy LLC,sunriseenergyllc@example.com,2025-01-06,294605,0.108,31817.34
+C1125,EcoPower Corp,ecopowercorp@example.com,2025-01-09,248395,0.111,27571.85
+C1126,Sunrise Energy LLC,sunriseenergyllc@example.com,2025-01-28,104747,0.108,11312.68
+C1127,GreenValley Farms,greenvalleyfarms@example.com,2025-02-16,72804,0.108,7862.83
+C1128,Sunrise Energy LLC,sunriseenergyllc@example.com,2025-02-11,219933,0.11,24192.63
+C1129,GreenValley Farms,greenvalleyfarms@example.com,2025-02-13,241655,0.107,25857.08
+C1130,EcoPower Corp,ecopowercorp@example.com,2025-02-02,272035,0.108,29379.78
+C1131,SolarWave Enterprises,solarwaveenterprises@example.com,2025-03-23,271329,0.098,26590.24
+C1132,SolarWave Enterprises,solarwaveenterprises@example.com,2025-03-02,251355,0.105,26392.27
+C1133,EcoPower Corp,ecopowercorp@example.com,2025-03-31,80770,0.107,8642.39
+C1134,Desert Solar Inc.,desertsolarinc@example.com,2025-03-21,102815,0.108,11104.02
+C1135,GreenValley Farms,greenvalleyfarms@example.com,2025-03-24,74037,0.107,7921.96
+C1136,BrightFuture Renewables,brightfuturerenewables@example.com,2025-04-28,114269,0.101,11541.17
+C1137,Sunrise Energy LLC,sunriseenergyllc@example.com,2025-04-29,138693,0.104,14424.07
+C1138,Urban Solar Solutions,urbansolarsolutions@example.com,2025-04-27,87510,0.106,9276.06
+C1139,BrightFuture Renewables,brightfuturerenewables@example.com,2025-05-19,249648,0.1,24964.8
+C1140,Urban Solar Solutions,urbansolarsolutions@example.com,2025-05-15,265315,0.103,27327.44
+C1141,Mountain Peak Solar,mountainpeaksolar@example.com,2025-05-24,149390,0.105,15685.95
+C1142,EcoPower Corp,ecopowercorp@example.com,2025-05-07,141939,0.096,13626.14
+C1143,Mountain Peak Solar,mountainpeaksolar@example.com,2025-06-12,272843,0.096,26192.93
+C1144,GreenValley Farms,greenvalleyfarms@example.com,2025-06-11,244799,0.098,23990.3
+C1145,Urban Solar Solutions,urbansolarsolutions@example.com,2025-06-07,175691,0.097,17042.03
+C1146,Urban Solar Solutions,urbansolarsolutions@example.com,2025-06-26,216434,0.094,20344.8
